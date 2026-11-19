@@ -2,7 +2,7 @@
 homepage: "https://asiri.ng"
 documentation: "https://github.com/asiri-compliance/asiri-consent-gtm#readme"
 versions:
-  - sha: 0000000000000000000000000000000000000000
+  - sha: 0d6078452cdc67826a32dc879fa8c7a354f055dc
     changeNotes: First release. Sets every consent type to denied, loads the pinned Asiri script and updates Consent Mode on each choice. Passes the source id and publishable key to the script so a Tag Manager install records receipts, and refuses a malformed value.
 # The Asiri script release the template pins. Rewritten by bin/gen-release.js, which refuses a release whose asiri.js
 # does not read the source and key from the page (asiriConfig).
