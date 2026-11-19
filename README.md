@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/asiri-mark.png" alt="Asiri" width="96" height="96"></p>
+
 # Asiri Consent for Google Tag Manager
 
 A community template that holds every consent type at denied until a visitor chooses, loads the Asiri consent script, and passes each choice to Google Consent Mode. Licensed under Apache-2.0.
